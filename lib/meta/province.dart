@@ -4213,6 +4213,9 @@ const Map<String, dynamic> citiesData = {
   "710000": {
     "710100": {"name": "台湾", "alpha": "t"}
   },
+  "810000": {
+    "810100": {"name": "香港城区", "alpha": "x"}
+  },
   "810100": {
     "810101": {"name": "中西区", "alpha": "z"},
     "810102": {"name": "湾仔区", "alpha": "w"},
